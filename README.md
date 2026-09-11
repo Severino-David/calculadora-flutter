@@ -2,6 +2,12 @@
 
 Projeto de uma calculadora desenvolvida em Flutter.
 
+## Código principal
+
+O código principal da calculadora está localizado em:
+
+`lib/main.dart`
+
 ## Funcionalidades
 
 - Operações matemáticas básicas
